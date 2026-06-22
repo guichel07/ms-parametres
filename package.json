@@ -1,7 +1,7 @@
 {
   "name": "tek-ms-parametres",
-  "private": true,
-  "version": "v1.0.1",
+  "private": false,
+  "version": "v1.0.2",
   "type": "module",
   "files": [
     "dist/"
